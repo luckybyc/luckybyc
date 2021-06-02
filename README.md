@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luckybyc
+- 👋 Hi, I’m Lusajo Malango Js,Python and Flutter Ninja living in Dar es Salaam, Tanzania.
 - 👀 I’m interested in web and mobile development 
 - 🌱 I’m currently learning javascript for frontend and python for backend 
 - 💞️ I’m looking to collaborate on any project concencerned Js and Python
