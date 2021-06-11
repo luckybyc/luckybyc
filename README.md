@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lusajo Malango || Javascript,Python and Flutter Ninja living in Dar es Salaam, Tanzania.
 - 👀 I’m interested in web and mobile development 
-- 🌱 I’m currently learning javascript for frontend and python for backend 
+- 🌱 I’ have 2+ years of experience in javascript(frontend )and python(backend)
 - 💞️ I’m looking to collaborate on any project concencerned Js and Python
 - 📫 How to reach me twitter @luckybyc email:luckybyc@gmail.com whatsapp&calls:+255746 777 775
 
